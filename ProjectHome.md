@@ -1,0 +1,1 @@
+This project aimed at Qt based user interface for popular tool iperf which is used to measure network performance like bandwidth,jitter etc.It is planned to support both iperf(v2) and iperf3 (library based) with this application.
